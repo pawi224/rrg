@@ -10,4 +10,5 @@ The Red River Gorge is an ecologically diverse region that hosts plants native t
 [A map of Red River Gorge](http://www.redrivergorge.com/pdf/rrg_map_sm.pdf)
 
 By Paige Williams
-Source: http://www.redrivergorge.com/index.html
+
+Information source: http://www.redrivergorge.com/index.html
