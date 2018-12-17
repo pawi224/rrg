@@ -24,13 +24,13 @@ The Red River Gorge is an ecologically diverse region that hosts plants native t
 
 ### Maps 
 
-* [Base map of popular Red River Gorge arches](#) *(lab 5)*
-* [Cliffs over 40-feet tall](Sand_gap_72dpi.jpg) 
+* [Base map of popular Red River Gorge arches](lab5map) *(lab 5)*
+* [Cliffs over 40-feet tall](sand_gap/Sand_gap_72dpi.jpg) 
 
 ### Web pages 
 
-* [Welcome to the Red River Gorge](https://tastyfreeze.github.io/rrg/) *(lab 1)*
-* [Explore Grays Arch](https://tastyfreeze.github.io/rrg/graysarch/) *(lab 8)*
+* [Welcome to the Red River Gorge](index.html) *(lab 1)*
+* [Explore Grays Arch](sand_gap) *(lab 8)*
 
 ### Photographs
 
